@@ -1,0 +1,15 @@
+[project]
+name = "powerdice-panel"
+version = "0.1.0"
+authors = [
+  {name = "Tomasz Pocztowski", email = "17937613+pr0way@users.noreply.github.com"}
+]
+description = "Simple Flask-based smart dice config panel"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "flask>=3.1.2",
+]
+
+[project.urls]
+Repository = "https://github.com/pr0way/powerdice-panel.git"
